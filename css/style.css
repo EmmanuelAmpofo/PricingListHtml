@@ -1,0 +1,153 @@
+.body{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+}
+.container{
+    color: rgb(19, 18, 18);
+    /* background-color: rgb(220, 240, 243); */
+    border: 2px solid rgb(219, 216, 216);
+    border-radius: 10px;
+    height: 400px;
+    width: 300px;
+    margin-right: 25px;
+    
+    
+}
+
+.container1{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(219, 216, 216);
+    border-radius: 10px;
+    height: 450px;
+    width: 300px;
+    margin-right: 25px;
+    color: rgb(15, 15, 15);
+}
+.container2{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(219, 216, 216);
+    border-radius: 10px;
+    height: 550px;
+    width: 300px;
+    margin-right: 25px;
+    color: rgb(17, 17, 17);
+}
+.container2 h4{
+    background-color: orange;
+    margin-top: 0px;
+    text-align: center;
+    font-size: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+    /* margin: 30px 30px; */
+    padding-bottom: 10px;
+    margin-bottom: 0;
+    color: white;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.container1 h4{
+    background-color: green;
+    margin-top: 0px;
+    text-align: center;
+    font-size: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+    /* margin: 30px 30px; */
+    padding-bottom: 10px;
+    margin-bottom: 0;
+    color: white;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h4{
+    background-color: rgb(247, 148, 247);
+    margin-top: 0px;
+    text-align: center;
+    font-size: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+    /* margin: 30px 30px; */
+    padding-bottom: 10px;
+    margin-bottom: 0;
+    color: white;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image {
+    margin: 35px 35px;
+    margin-top: 4px;
+    
+}
+.bottom{
+    margin-top: 44px;
+    text-align: center;
+    
+}
+.bottom input{
+    color: whitesmoke;
+    font-size: 20px;
+    background-color: rgb(247, 148, 247);
+    border-radius: 10px;
+    width: 150px;
+}
+.bottom1{
+    margin-top: 30px;
+    text-align: center;
+    
+}
+.bottom1 input{
+    color: whitesmoke;
+    font-size: 20px;
+    background-color: green;
+    border-radius: 10px;
+    width: 150px;
+}
+.bottom1 :hover{
+    background-color: rgb(198, 243, 198);
+    color: rgb(112, 104, 104);
+}
+.bottom2{
+    margin-top: 70px;
+    text-align: center;
+    
+}
+.bottom2 input{
+    color: whitesmoke;
+    font-size: 20px;
+    background-color: orange;
+    border-radius: 10px;
+    width: 150px;
+}
+.bottom2 :hover{
+    background-color: rgb(241, 210, 151);
+    color: rgb(112, 104, 104);
+}
+
+.bottom :hover{
+    background-color: rgb(248, 227, 248);
+    color: rgb(112, 104, 104);
+}
+.listitem ul{
+    font-size: 20px;
+    list-style: none;
+    
+}
+.listitem ul li{
+    text-align: center;
+}
+input[type="radio"]{
+    margin-right: 10px;
+}
